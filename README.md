@@ -1,6 +1,7 @@
 # Madhuri's Portfolio
 
-## Project 1: [Pizza Sales Analysis — (SQL-PowerBI)](https://www.novypro.com/project/pizza-sales-analysis-16))
+## Project 1: [Pizza Sales Analysis — (SQL-PowerBI)](https://github.com/madhurilm/Pizza-Sales-Analysis-SQL-PowerBI-)
+[Dynamic dashboard](https://www.novypro.com/project/pizza-sales-analysis-16)
 
 ![](./images/pizzasales.png)
 
